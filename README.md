@@ -3,7 +3,7 @@
 > A list comprehension is a one-line for loop that builds a list.
 
 
-📺 **Watch:** https://www.youtube.com/watch?v=jf64Q3zqAds  
+📺 **Watch:** https://www.youtube.com/watch?v=-ZJmrY48290  
 📖 **Article:** https://www.codegiz.com/blog/list-comprehension-vs-for-loop/  
 🎓 **Tutorial + quiz:** https://www.codegiz.com/watch/list-comprehension-vs-for-loop/
 
